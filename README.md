@@ -1,3 +1,6 @@
+# Try my excuse generator
+# https//kriss1205.github.io//Excuse-Generator/
+<br>
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
