@@ -1,5 +1,5 @@
 # Try my excuse generator
-# https//kriss1205.github.io//Excuse-Generator/
+# https://kriss1205.github.io//Excuse-Generator/
 <br>
 # Hello World with Vanilla JS
 
