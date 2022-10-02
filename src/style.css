@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+img {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+#excuse {
+  display: flex;
+  justify-content: center;
+}
+.btn:hover {
+  color: rgb(245, 150, 7);
+  outline: none;
+}
